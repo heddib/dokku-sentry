@@ -3,3 +3,6 @@ uWSGI==2.0.18
 
 # Sentry plugins
 sentry-plugins==9.1.2
+
+# Environment variables for Django
+django-environ==0.4.5
